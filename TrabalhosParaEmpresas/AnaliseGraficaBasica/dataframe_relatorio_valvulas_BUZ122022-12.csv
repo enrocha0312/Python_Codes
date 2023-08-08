@@ -1,0 +1,21 @@
+Timestamp_Abertura, Valvula, Id, Timestamp_Fechamento, Valvula, Id
+2022-12-12 16:27:46,SV_WingValve_2_Position,471,2022-12-12 16:29:09,SV_WingValve_2_Position,471
+2022-12-12 16:27:46,SV_CrossoverValve_Position,432,2022-12-12 16:29:09,SV_CrossoverValve_Position,432
+2022-12-12 16:27:46,SV_PIGCrossoverValve_Position,456,2022-12-12 16:29:09,SV_PIGCrossoverValve_Position,456
+2022-12-12 16:28:46,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2022-12-12 16:29:09,SV_WingValve_1_Position,468
+2022-12-12 17:40:33,SV_WingValve_1_Position,468,2022-12-12 16:29:09,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2022-12-12 18:27:32,SV_WingValve_2_Position,471,2022-12-12 18:28:52,SV_WingValve_2_Position,471
+2022-12-12 18:27:32,SV_CrossoverValve_Position,432,2022-12-12 18:28:52,SV_CrossoverValve_Position,432
+2022-12-12 18:27:32,SV_PIGCrossoverValve_Position,456,2022-12-12 18:28:52,SV_PIGCrossoverValve_Position,456
+2022-12-12 18:28:41,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2022-12-12 18:28:52,SV_WingValve_1_Position,468
+2022-12-12 18:33:10,SV_WingValve_1_Position,468,2022-12-12 18:29:13,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2022-12-16 07:38:21,SV_WingValve_2_Position,471,2022-12-16 01:49:25,SV_WingValve_2_Position,471
+2022-12-16 07:38:21,SV_CrossoverValve_Position,432,2022-12-16 01:49:25,SV_CrossoverValve_Position,432
+2022-12-16 07:38:21,SV_PIGCrossoverValve_Position,456,2022-12-16 01:49:25,SV_PIGCrossoverValve_Position,456
+2022-12-16 07:38:21,SV_WingValve_1_Position,468,2022-12-16 01:49:25,SV_WingValve_1_Position,468
+2022-12-16 07:39:35,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2022-12-16 01:49:46,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2022-12-20 05:57:21,SV_WingValve_1_Position,468,2022-12-16 21:59:03,SV_WingValve_2_Position,471
+,,,2022-12-16 21:59:03,SV_CrossoverValve_Position,432
+,,,2022-12-16 21:59:03,SV_PIGCrossoverValve_Position,456
+,,,2022-12-16 21:59:03,SV_WingValve_1_Position,468
+,,,2022-12-16 21:59:03,SV_AnnulusInterventionValve_12_MasterValve2_Position,414

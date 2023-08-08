@@ -1,0 +1,44 @@
+Timestamp_Abertura, Valvula, Id, Timestamp_Fechamento, Valvula, Id
+2023-03-06 18:11:33,SV_WingValve_1_Position,468,2023-03-06 18:11:51,SV_WingValve_1_Position,468
+2023-03-09 13:52:12,SV_WingValve_1_Position,468,2023-03-09 14:31:33,SV_WingValve_1_Position,468
+2023-03-11 08:16:24,SV_PIGCrossoverValve_Position,456,2023-03-11 08:17:46,SV_WingValve_2_Position,471
+2023-03-11 08:16:33,SV_WingValve_2_Position,471,2023-03-11 08:17:46,SV_CrossoverValve_Position,432
+2023-03-11 08:16:33,SV_CrossoverValve_Position,432,2023-03-11 08:17:46,SV_PIGCrossoverValve_Position,456
+2023-03-11 08:16:33,SV_WingValve_1_Position,468,2023-03-11 08:17:46,SV_WingValve_1_Position,468
+2023-03-11 08:17:38,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-03-11 08:18:03,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-03-12 12:25:53,SV_WingValve_2_Position,471,2023-03-12 22:47:11,SV_WingValve_2_Position,471
+2023-03-12 12:25:53,SV_CrossoverValve_Position,432,2023-03-12 22:47:11,SV_CrossoverValve_Position,432
+2023-03-12 12:25:53,SV_PIGCrossoverValve_Position,456,2023-03-12 22:47:11,SV_PIGCrossoverValve_Position,456
+2023-03-12 12:25:53,SV_WingValve_1_Position,468,2023-03-12 22:47:11,SV_WingValve_1_Position,468
+2023-03-12 12:26:58,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-03-12 22:47:11,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-03-17 03:15:10,SV_DownholeSafetyValve_1_Position,435,2023-03-21 13:34:57,SV_WingValve_2_Position,471
+2023-03-17 03:15:18,SV_DownholeSafetyValve_2_Position,438,2023-03-21 13:34:57,SV_CrossoverValve_Position,432
+2023-03-17 10:34:34,SV_WingValve_2_Position,471,2023-03-21 13:34:57,SV_PIGCrossoverValve_Position,456
+2023-03-17 10:34:34,SV_CrossoverValve_Position,432,2023-03-21 13:34:57,SV_WingValve_1_Position,468
+2023-03-17 10:34:34,SV_PIGCrossoverValve_Position,456,2023-03-21 13:34:57,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-03-17 10:34:34,SV_WingValve_1_Position,468,2023-03-26 06:25:10,SV_WingValve_1_Position,468
+2023-03-17 10:35:39,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-03-26 08:50:47,SV_WingValve_1_Position,468
+2023-03-21 13:26:51,SV_WingValve_2_Position,471,2023-03-26 12:43:35,SV_WingValve_1_Position,468
+2023-03-21 13:26:51,SV_CrossoverValve_Position,432,2023-03-26 16:34:52,SV_WingValve_1_Position,468
+2023-03-21 13:26:51,SV_PIGCrossoverValve_Position,456,2023-03-27 00:04:42,SV_WingValve_1_Position,468
+2023-03-21 13:26:51,SV_WingValve_1_Position,468,2023-03-27 06:37:41,SV_WingValve_1_Position,468
+2023-03-21 13:28:02,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-03-27 14:41:21,SV_WingValve_1_Position,468
+2023-03-21 13:36:57,SV_WingValve_2_Position,471,2023-03-27 21:47:52,SV_WingValve_1_Position,468
+2023-03-21 13:36:57,SV_CrossoverValve_Position,432,,,
+2023-03-21 13:36:57,SV_PIGCrossoverValve_Position,456,,,
+2023-03-21 13:36:57,SV_WingValve_1_Position,468,,,
+2023-03-21 13:37:59,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,,,
+2023-03-24 11:48:51,SV_CrossoverValve_Position,432,,,
+2023-03-24 11:48:51,SV_PIGCrossoverValve_Position,456,,,
+2023-03-24 11:48:51,SV_WingValve_1_Position,468,,,
+2023-03-24 11:48:57,SV_WingValve_2_Position,471,,,
+2023-03-24 11:49:54,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,,,
+2023-03-26 02:58:27,SV_WingValve_1_Position,468,,,
+2023-03-26 08:46:19,SV_WingValve_1_Position,468,,,
+2023-03-26 12:42:44,SV_WingValve_1_Position,468,,,
+2023-03-26 16:33:43,SV_WingValve_1_Position,468,,,
+2023-03-27 00:03:35,SV_WingValve_1_Position,468,,,
+2023-03-27 06:36:35,SV_WingValve_1_Position,468,,,
+2023-03-27 14:39:59,SV_WingValve_1_Position,468,,,
+2023-03-27 21:47:08,SV_WingValve_1_Position,468,,,
+2023-03-28 01:05:46,SV_WingValve_1_Position,468,,,

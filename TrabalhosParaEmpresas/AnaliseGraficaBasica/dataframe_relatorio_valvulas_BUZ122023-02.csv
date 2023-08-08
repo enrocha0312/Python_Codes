@@ -1,0 +1,14 @@
+Timestamp_Abertura, Valvula, Id, Timestamp_Fechamento, Valvula, Id
+2023-02-12 01:43:02,SV_ChemicalInjectionBlockValve_5_Position,426,2023-02-12 01:48:38,SV_ChemicalInjectionBlockValve_5_Position,426
+2023-02-16 02:32:03,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-02-16 07:10:24,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-02-16 07:14:10,SV_ChemicalInjectionBlockValve_6_Position,429,2023-02-16 07:15:50,SV_ChemicalInjectionBlockValve_6_Position,429
+2023-02-18 05:55:38,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-02-18 17:42:33,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-02-19 02:31:34,SV_ChemicalInjectionBlockValve_6_Position,429,2023-02-19 02:32:24,SV_ChemicalInjectionBlockValve_6_Position,429
+2023-02-20 20:29:58,SV_ChemicalInjectionBlockValve_4_Position,423,2023-02-20 00:08:51,SV_ChemicalInjectionBlockValve_4_Position,423
+2023-02-25 17:45:44,SV_CrossoverValve_Position,432,2023-02-25 17:47:04,SV_WingValve_2_Position,471
+2023-02-25 17:45:44,SV_PIGCrossoverValve_Position,456,2023-02-25 17:47:04,SV_CrossoverValve_Position,432
+2023-02-25 17:45:51,SV_WingValve_2_Position,471,2023-02-25 17:47:04,SV_PIGCrossoverValve_Position,456
+2023-02-25 17:46:51,SV_AnnulusInterventionValve_12_MasterValve2_Position,414,2023-02-25 17:47:04,SV_WingValve_1_Position,468
+2023-02-25 19:21:07,SV_WingValve_1_Position,468,2023-02-25 17:47:24,SV_AnnulusInterventionValve_12_MasterValve2_Position,414
+2023-02-25 22:21:44,SV_WingValve_1_Position,468,2023-02-25 19:22:52,SV_WingValve_1_Position,468
+2023-02-25 22:50:07,SV_WingValve_1_Position,468,2023-02-25 22:26:35,SV_WingValve_1_Position,468
